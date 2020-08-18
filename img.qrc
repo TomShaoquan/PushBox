@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/blackground.bmp</file>
+        <file>res/box.bmp</file>
+        <file>res/des.bmp</file>
+        <file>res/floor.bmp</file>
+        <file>res/man.bmp</file>
+        <file>res/wall_right.bmp</file>
+        <file>res/timg.jpg</file>
+        <file>res/illustrate.png</file>
+        <file>res/success.jpg</file>
+        <file>res/monster.png</file>
+        <file>res/failure.jpg</file>
+    </qresource>
+</RCC>
